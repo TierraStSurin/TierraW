@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web Development and cats. 🐈 
 - 🌱 I’m currently learning more about JavaScript and hopping into React.
 - 💞️ I’m looking to collaborate on any Front-End projects. I'm friendly, I promise! 😊 
-- 📫 How to reach me - LinkedIn (https://www.linkedin.com/in/tierra-walrond-542557201/) and Twitter (@TierraW) is where I hang out!
+- 📫 How to reach me - LinkedIn (https://www.linkedin.com/in/tierra-walrond-542557201/) and Twitter (https://twitter.com/tierrawalrond) is where I hang out!
 
 <!---
 TierraW/TierraW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
